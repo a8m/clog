@@ -1,0 +1,9 @@
+{
+  "name": "shoko",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "colors": "~0.6.2"
+  }
+}
