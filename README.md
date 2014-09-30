@@ -9,11 +9,11 @@ clog
 ![Screenshot](https://raw.githubusercontent.com/a8m/clog/master/screenshot/expections.jpg)
 
 #[Installing](#installing)
-##**git**
+###**git**
 ```
 $ git clone https://github.com/a8m/clog.git
 ```
-##**npm**
+###**npm**
 ```
 $ npm install c-log --save
 ```
