@@ -1,6 +1,7 @@
 clog
 ====
 > Colorful cli logger for NodeJS
+
 ![Screenshot](https://raw.githubusercontent.com/a8m/clog/master/screenshot/table.jpg)
 
 ##Table of contents:
