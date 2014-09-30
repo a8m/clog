@@ -59,5 +59,5 @@ clog.table(persons);
 ║ 2       │ Arle Sher │ 12  │ false    │ $2,968.83 ║
 ╚═════════╧═══════════╧═════╧══════════╧═══════════╝
 ```
-#[License]
+#[License](#license)
 MIT <3
