@@ -10,7 +10,7 @@
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/firejune/clog.git"
+    "url": "git://github.com/a8m/clog.git"
   },
   "keywords": [
     "console",
