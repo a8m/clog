@@ -1,10 +1,42 @@
 {
-  "name": "clog",
+  "name": "c-log",
+  "description": "Pretty colorful cli logger for NodeJS(with table, success and more...)",
+  "version": "0.0.1",
+  "author": {
+    "name": "Ariel Mashraki",
+    "email": "ariel@mashraki.co.il"
+  },
+  "homepage": "https://github.com/a8m/clog",
   "directories": {
     "lib": "lib"
   },
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/firejune/clog.git"
+  },
+  "keywords": [
+    "console",
+    "console-success",
+    "console-table",
+    "table",
+    "color",
+    "colors",
+    "log",
+    "info",
+    "error",
+    "success",
+    "enjoy",
+    "warn"
+  ],
   "dependencies": {
     "colors": "~0.6.2",
     "cli-table": "~0.3.0"
-  }
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "license": "MIT"
 }
