@@ -1,2 +1,2 @@
 'use strict';
-module.exports = new (require('./lib/shoko'));
+module.exports = new (require('./lib/clog'));
