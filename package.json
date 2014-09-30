@@ -4,6 +4,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "colors": "~0.6.2"
+    "colors": "~0.6.2",
+    "cli-table": "~0.3.0"
   }
 }
