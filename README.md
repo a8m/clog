@@ -48,7 +48,7 @@ var persons = [
   { name: 'Arle Sher', age: 12, isActive: false, balance: '$2,968.83' }
 ];
 clog.table(persons);
-/* Table Result:
+/* Table Result:*/
 ╔═════════╤═══════════╤═════╤══════════╤═══════════╗
 ║ (index) │ name      │ age │ isActive │ balance   ║
 ╟─────────┼───────────┼─────┼──────────┼───────────╢
