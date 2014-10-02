@@ -1,7 +1,7 @@
 {
   "name": "c-log",
   "description": "Pretty colorful cli logger for NodeJS(with table, success and more...)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Ariel Mashraki <ariel@mashraki.co.il>",
   "homepage": "https://github.com/a8m/clog",
   "directories": {
