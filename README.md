@@ -23,9 +23,9 @@ $ npm install c-log --save
 var clog = require('c-log');
 
 //Simple logs with colors
-logger.log("Lorem Ipsum...");
-logger.info("Lorem Ipsum...");
-logger.warn("Lorem Ipsum ..");
+clog.log("Lorem Ipsum...");
+clog.info("Lorem Ipsum...");
+clog.warn("Lorem Ipsum ..");
 
 //Success and Error
 function assert(expect, msg) {
