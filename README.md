@@ -10,11 +10,11 @@ clog
 
 #[Installing](#installing)
 ###**git**
-```
+```bash
 $ git clone https://github.com/a8m/clog.git
 ```
 ###**npm**
-```
+```bash
 $ npm install c-log --save
 ```
 
