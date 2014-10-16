@@ -1,6 +1,6 @@
 clog
 ====
-> Pretty colorful cli logger for NodeJS(with table, success and more...) 
+> Pretty colorful cli logger for NodeJS(with table, success and more...) **v0.0.2**  
 
 ![Screenshot](https://raw.githubusercontent.com/a8m/clog/master/screenshot/table.jpg)
 
@@ -60,4 +60,4 @@ clog.table(persons);
 ╚═════════╧═══════════╧═════╧══════════╧═══════════╝
 ```
 #[License](#license)
-MIT <3
+MIT © [Ariel Mashraki](https://github.com/a8m)
