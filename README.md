@@ -1,6 +1,6 @@
-clog
-====
-> Pretty colorful cli logger for NodeJS(with table, success and more...) **v0.0.2**  
+# clog [![Build Status](https://travis-ci.org/a8m/clog.svg?branch=master)](https://travis-ci.org/a8m/clog) [![Coverage Status](https://img.shields.io/coveralls/a8m/clog.svg)](https://coveralls.io/r/a8m/clog?branch=master)
+
+> Pretty colorful cli logger for NodeJS(with table, success and more...) **v0.0.3**  
 
 ![Screenshot](https://raw.githubusercontent.com/a8m/clog/master/screenshot/table.jpg)
 
