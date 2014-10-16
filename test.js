@@ -96,4 +96,9 @@ describe('c-log, test exports', function() {
     sinon.assert.calledWith(spy, tableMock.toString());
   });
 
+  it('table()', function() {
+    clog.table('!notArray');
+    sinon.assert.calledWith(spy, '» LOG: '.blueBG, '!notArray');
+  });
+
 });

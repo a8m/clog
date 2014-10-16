@@ -31,11 +31,12 @@
     "cli-table": "~0.3.0"
   },
   "devDependencies": {
+    "istanbul": "^0.3.2",
     "mocha": "^1.21.4",
     "sinon": "^1.10.3"
   },
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha test.js -u bdd -R spec"
+    "test": "./node_modules/.bin/istanbul cover ./node_modules/mocha/bin/_mocha -- -u exports test.js"
   },
   "engines": {
     "node": ">= 0.4.0"
